@@ -63,7 +63,7 @@ public class Menu {
             System.out.println("3) Iene para Euro");
             System.out.println("4) Franco Suíço para Dólar Canadense");
             System.out.println("5) Real para Dólar Australiano");
-            System.out.println("6) Dólar de Hong KongYuan Chinês");
+            System.out.println("6) Dólar de Hong Kong para Yuan Chinês");
 
             System.out.println("0) Sair do programa");
             System.out.println("**************************************************");
