@@ -32,16 +32,6 @@ API.
 
 ------------------------------------------------------------------------
 
-## 🚀 Possíveis Melhorias Futuras
-
--   Implementar enum para tipos de conversão
--   Formatação monetária com NumberFormat
--   Tratamento avançado de exceções
--   Separação em pacotes (model, service, ui)
--   Testes unitários
-
-------------------------------------------------------------------------
-
 ## 👨‍💻 Autor
 
 Caio Martins
